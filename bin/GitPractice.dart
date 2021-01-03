@@ -3,5 +3,5 @@ void main(List<String> arguments) {
   // this is master
   // test before reset
 
-  // branch exp
+  // branch exp deleted : git branch -d exp
 }
